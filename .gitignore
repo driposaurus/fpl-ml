@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+# fetched raw data (GW1 state preserved in data/data_snapshot_gw1.zip)
+gw_*.csv
+teams_*.csv
+players_2627.csv
+cleaned_2526.csv
+fixtures_2627.csv
